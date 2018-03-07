@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1520343354 source:c:\users\eduard stetco\desktop\schule\pos\codeblocks\c++\deathrun2d\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"SDL.h"
+	"SDL_image.h"
+
+1520418089 source:c:\users\eduard stetco\desktop\deathrun2d\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"SDL.h"
+	"SDL_image.h"
+
