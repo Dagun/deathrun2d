@@ -39,8 +39,8 @@ int main(int argc, char *argv[])
     SDL_Window *Window= SDL_CreateWindow("DeathRun2D", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, 1980, 1080,SDL_WINDOW_SHOWN);
     SDL_Renderer *Render = SDL_CreateRenderer(Window, -1, SDL_RENDERER_ACCELERATED | SDL_RENDERER_PRESENTVSYNC);
     SDL_Event Event;
-    SDL_Texture *Background = LoadTexture("simon.png",Render);
-    SDL_Texture *Background2 = LoadTexture("simon2.png",Render);
+    SDL_Texture *Background = LoadTexture("test.png",Render);
+    SDL_Texture *Background2 = LoadTexture("test2.png",Render);
 
     float prevTime = 0;
     float currentTime = 0;
