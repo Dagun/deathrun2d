@@ -28,3 +28,15 @@
 1520504282 source:c:\users\eduard stetco\desktop\deathrun2d\deathrun2d\timer.cpp
 	"timer.h"
 
+1520505069 source:c:\users\hoppe\documents\github\deathrun2d\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"timer.h"
+	"SDL.h"
+	"SDL_image.h"
+
+1520505069 c:\users\hoppe\documents\github\deathrun2d\timer.h
+	"SDL.h"
+
