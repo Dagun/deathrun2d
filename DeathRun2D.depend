@@ -13,10 +13,18 @@
 	"SDL.h"
 	"SDL_image.h"
 
-1520418843 source:c:\users\eduard stetco\desktop\deathrun2d\deathrun2d\main.cpp
+1520504237 source:c:\users\eduard stetco\desktop\deathrun2d\deathrun2d\main.cpp
 	<iostream>
 	<stdlib.h>
 	<stdio.h>
+	<string.h>
+	"timer.h"
 	"SDL.h"
 	"SDL_image.h"
+
+1520504273 c:\users\eduard stetco\desktop\deathrun2d\deathrun2d\timer.h
+	"SDL.h"
+
+1520504282 source:c:\users\eduard stetco\desktop\deathrun2d\deathrun2d\timer.cpp
+	"timer.h"
 
