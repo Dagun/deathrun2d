@@ -40,3 +40,6 @@
 1520505069 c:\users\hoppe\documents\github\deathrun2d\timer.h
 	"SDL.h"
 
+1520505069 source:c:\users\hoppe\documents\github\deathrun2d\timer.cpp
+	"timer.h"
+
