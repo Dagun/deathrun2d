@@ -10,8 +10,9 @@ class Graphic
 
     public:
         Graphic();
+        ~Graphic();
         Graphic(SDL_Renderer *renderer, char* imageName);
-        SDL_Rect* createTextureDestination(int x, int y, int w, int h);
+        SDL_Rect* createTextureDest(int x, int y, int w, int h);
         //get
         SDL_Surface* getImage();
         SDL_Texture* getTexture();
@@ -26,6 +27,5 @@ class Graphic
         void setTextureDestW(int w);
         void setTextureDestH(int h);
         void copyTextureDest(SDL_Rect *  textDest);
-        void setImageName( char* newN);
 
 };
