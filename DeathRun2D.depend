@@ -13,7 +13,7 @@
 	"SDL.h"
 	"SDL_image.h"
 
-1520504237 source:c:\users\eduard stetco\desktop\deathrun2d\deathrun2d\main.cpp
+1520504321 source:c:\users\eduard stetco\desktop\deathrun2d\deathrun2d\main.cpp
 	<iostream>
 	<stdlib.h>
 	<stdio.h>
@@ -43,12 +43,21 @@
 1520505069 source:c:\users\hoppe\documents\github\deathrun2d\timer.cpp
 	"timer.h"
 
+<<<<<<< HEAD
 1520956450 source:c:\users\hoppe\documents\github\deathrun2d\graphic.cpp
+=======
+1520506859 source:c:\users\eduard stetco\desktop\deathrun2d\deathrun2d\graphic.cpp
+>>>>>>> 352b8f1eb6b5fa8cc0e1d81a0685602875a67df2
 	<string.h>
 	"timer.h"
 	"SDL.h"
 	"SDL_image.h"
 	"graphic.h"
 
+<<<<<<< HEAD
 1520956427 c:\users\hoppe\documents\github\deathrun2d\graphic.h
+=======
+1520535921 c:\users\eduard stetco\desktop\deathrun2d\deathrun2d\graphic.h
+	"SDL.h"
+>>>>>>> 352b8f1eb6b5fa8cc0e1d81a0685602875a67df2
 
