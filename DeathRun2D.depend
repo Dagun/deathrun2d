@@ -28,6 +28,7 @@
 1520504282 source:c:\users\eduard stetco\desktop\deathrun2d\deathrun2d\timer.cpp
 	"timer.h"
 
+<<<<<<< HEAD
 1520505069 source:c:\users\hoppe\documents\github\deathrun2d\main.cpp
 	<iostream>
 	<stdlib.h>
@@ -61,3 +62,5 @@
 	"SDL.h"
 >>>>>>> 352b8f1eb6b5fa8cc0e1d81a0685602875a67df2
 
+=======
+>>>>>>> parent of 07b3604... Created graphics.h
